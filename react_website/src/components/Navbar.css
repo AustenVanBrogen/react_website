@@ -1,0 +1,8 @@
+.navbar{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(215, 122, 97);
+    overflow: hidden;
+}
