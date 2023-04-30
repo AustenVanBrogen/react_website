@@ -1,0 +1,14 @@
+.navbarButton{
+    height: 94%;
+    width: 10rem;
+    display: flex;
+    background-color: rgb(215, 122, 97);
+    border: 3px solid rgb(198, 160, 202);
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarButton:hover{
+    background-color: rgb(198, 160, 202);
+}
